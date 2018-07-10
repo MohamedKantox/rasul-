@@ -1,0 +1,13 @@
+library(dplyr)
+library(TTR)
+library(plotly)
+library(data.table)
+library(lubridate)
+library(magrittr)
+library(rsample) #for splitting data sets 
+library(recipes)
+library(keras)
+library(tidyr)
+library(tidyquant)
+library(rwt)
+library(wavelets)
